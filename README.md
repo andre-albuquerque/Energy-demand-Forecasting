@@ -13,5 +13,5 @@ To download the dataset, access [here]('http://www.ipeadata.gov.br/Default.aspx'
 
 * Prophet by Facebook. <p>
     
-  You can acess instructions for install and usage in the official [page]('https://facebook.github.io/prophet/').
+  You can access instructions for install and usage in the official [page]('https://facebook.github.io/prophet/').
   
